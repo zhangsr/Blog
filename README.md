@@ -12,4 +12,6 @@
 
 #### 2014年
 
+[Android Broadcast 使用指南](https://github.com/zhangsr/Blog/issues/7)
+
 [Android Service 使用指南](https://github.com/zhangsr/Blog/issues/6)

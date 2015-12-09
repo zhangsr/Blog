@@ -2,6 +2,8 @@
 
 #### 2015年12月
 
+[Android IPC 机制](https://github.com/zhangsr/Blog/issues/10)
+
 [Android Event 事件传递机制](https://github.com/zhangsr/Blog/issues/4)
 
 #### 2015年11月

@@ -14,6 +14,8 @@
 
 #### 2014年
 
+[Java 集合类](https://github.com/zhangsr/Blog/issues/13)
+
 [Android Broadcast 使用指南](https://github.com/zhangsr/Blog/issues/7)
 
 [Android Service 使用指南](https://github.com/zhangsr/Blog/issues/6)
